@@ -1,3 +1,6 @@
+---
+layout: base.njk
+---
 {%- from 'macros/someMacro.njk' import showName -%}
 # M1 
 
